@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 je mesuis khalifa i will testing to create a new branch 
+=======
+
+donc i will be testing the reset command git
+>>>>>>> auxiliere
